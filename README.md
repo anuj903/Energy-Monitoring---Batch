@@ -190,7 +190,7 @@ The agent can be extended to output:
 
 ## Data Visualization
 
-![Dashboard](Dashboards\energyMonitoringBatchProcessing.png)
+![Dashboard](Dashboards/energyMonitoringBatchProcessing.png)
 
 ## 🤝 Contributing
 
