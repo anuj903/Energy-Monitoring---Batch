@@ -188,6 +188,10 @@ The agent can be extended to output:
 - **Scalability**: Handles multiple departments and machines
 - **Error Recovery**: Continues processing on individual file failures
 
+## Data Visualization
+
+![Dashboard](Dashboards\energyMonitoringBatchProcessing.png)
+
 ## 🤝 Contributing
 
 1. Fork the repository
